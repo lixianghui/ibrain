@@ -3,7 +3,6 @@ ibrain
 
 ibrain致力于内容管理,基于优秀的yii2.0.7框架开发,安全高效简洁.
 
-
 DIRECTORY STRUCTURE
 -------------------
 
